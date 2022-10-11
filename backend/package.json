@@ -12,5 +12,8 @@
     "fullstack"
   ],
   "author": "Manuel Vallejos",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^6.25.0"
+  }
 }
